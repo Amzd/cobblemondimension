@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "cobblemondimension:mangrove_swamp",
+    "cobblemondimension:swamp"
+  ]
+}

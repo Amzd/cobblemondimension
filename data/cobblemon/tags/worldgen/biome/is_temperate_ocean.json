@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "cobblemondimension:ocean",
+	"cobblemondimension:deep_ocean"
+  ]
+}

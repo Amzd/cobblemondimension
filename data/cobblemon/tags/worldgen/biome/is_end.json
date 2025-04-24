@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "TODO": "This also enables normal world end which we don't want but idk how else to do this as we don't have custom biomes for the end",
+  "values": [
+    "#minecraft:is_end"
+  ]
+}

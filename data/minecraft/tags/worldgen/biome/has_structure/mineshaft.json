@@ -1,0 +1,26 @@
+{
+  "values": [
+    "#cobblemon:is_ocean",
+    "#cobblemon:is_river",
+    "#cobblemon:is_beach",
+    "#cobblemon:is_mountain",
+    "#cobblemon:is_hill",
+    "#cobblemon:is_taiga",
+    "#cobblemon:is_jungle",
+    "#cobblemon:is_forest",
+    "cobblemondimension:stony_shore",
+    "cobblemondimension:mushroom_fields",
+    "cobblemondimension:ice_spikes",
+    "cobblemondimension:windswept_savanna",
+    "cobblemondimension:desert",
+    "cobblemondimension:savanna",
+    "cobblemondimension:snowy_plains",
+    "cobblemondimension:plains",
+    "cobblemondimension:sunflower_plains",
+    "cobblemondimension:swamp",
+    "cobblemondimension:mangrove_swamp",
+    "cobblemondimension:savanna_plateau",
+    "cobblemondimension:dripstone_caves",
+    "cobblemondimension:lush_caves"
+  ]
+}

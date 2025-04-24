@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "cobblemondimension:birch_forest",
+	"cobblemondimension:flower_forest",
+	"cobblemondimension:forest",
+	"cobblemondimension:old_growth_birch_forest"
+  ]
+}

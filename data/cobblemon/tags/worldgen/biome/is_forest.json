@@ -1,0 +1,16 @@
+{
+  "replace": true,
+  "values": [
+	"cobblemondimension:birch_forest",
+	"cobblemondimension:dark_forest",
+	"cobblemondimension:flower_forest",
+	"cobblemondimension:forest",
+	"cobblemondimension:grove",
+	"cobblemondimension:old_growth_birch_forest",
+    {
+	    "id": "cobblemondimension:pale_garden",
+        "required": false
+    },
+	"cobblemondimension:cherry_grove"
+  ]
+}

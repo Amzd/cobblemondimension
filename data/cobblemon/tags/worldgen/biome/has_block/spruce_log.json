@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "values": [
+    "cobblemondimension:grove",
+	"cobblemondimension:old_growth_pine_taiga",
+	"cobblemondimension:old_growth_spruce_taiga",
+	"cobblemondimension:snowy_taiga",
+	"cobblemondimension:taiga",
+	"cobblemondimension:windswept_forest"
+  ]
+}

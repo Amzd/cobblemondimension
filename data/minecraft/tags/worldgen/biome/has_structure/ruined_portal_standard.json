@@ -1,0 +1,16 @@
+{
+  "values": [
+    "#cobblemon:is_beach",
+    "#cobblemon:is_river",
+    "#cobblemon:is_taiga",
+    "#cobblemon:is_forest",
+    "cobblemondimension:mushroom_fields",
+    "cobblemondimension:ice_spikes",
+    "cobblemondimension:dripstone_caves",
+    "cobblemondimension:lush_caves",
+    "cobblemondimension:savanna",
+    "cobblemondimension:snowy_plains",
+    "cobblemondimension:plains",
+    "cobblemondimension:sunflower_plains"
+  ]
+}

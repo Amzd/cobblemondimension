@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "cobblemondimension:dark_forest",
+    "cobblemondimension:mangrove_swamp",
+	"#cobblemon:is_jungle"
+  ]
+}

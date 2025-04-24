@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "#cobblemon:is_sky",
+    "#cobblemon:is_volcanic",
+    "cobblemondimension:sunflower_plains"
+  ]
+}

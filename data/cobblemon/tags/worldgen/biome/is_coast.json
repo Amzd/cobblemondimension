@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "cobblemondimension:stony_shore",
+	"#cobblemon:is_beach"
+  ]
+}

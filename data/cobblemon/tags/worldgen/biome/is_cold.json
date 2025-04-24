@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+	"#cobblemon:is_cold_ocean",
+	"#cobblemon:is_freezing",
+    "#cobblemon:is_peak",
+    "#cobblemon:is_taiga",
+    "#cobblemon:is_tundra"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "cobblemondimension:bamboo_jungle",
+    "cobblemondimension:jungle",
+    "cobblemondimension:sparse_jungle"
+  ]
+}

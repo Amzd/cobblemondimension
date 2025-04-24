@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+	"cobblemondimension:savanna",
+	"cobblemondimension:savanna_plateau",
+	"cobblemondimension:windswept_savanna"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "cobblemondimension:badlands",
+    "cobblemondimension:eroded_badlands",
+    "cobblemondimension:wooded_badlands"
+  ]
+}

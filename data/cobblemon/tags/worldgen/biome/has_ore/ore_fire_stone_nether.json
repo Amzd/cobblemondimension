@@ -1,0 +1,6 @@
+{
+  "replace": true,
+  "values": [
+    "#cobblemon:is_nether"
+  ]
+}

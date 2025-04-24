@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "cobblemondimension:plains",
+    "cobblemondimension:sunflower_plains",
+	"#cobblemon:is_highlands"
+  ]
+}

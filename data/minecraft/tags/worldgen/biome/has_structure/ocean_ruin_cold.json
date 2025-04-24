@@ -1,0 +1,10 @@
+{
+  "values": [
+    "cobblemondimension:frozen_ocean",
+    "cobblemondimension:cold_ocean",
+    "cobblemondimension:ocean",
+    "cobblemondimension:deep_frozen_ocean",
+    "cobblemondimension:deep_cold_ocean",
+    "cobblemondimension:deep_ocean"
+  ]
+}

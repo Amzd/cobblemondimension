@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "#cobblemon:is_floral",
+    "#cobblemon:is_mushroom",
+    "#cobblemon:is_savanna",
+    "cobblemondimension:sunflower_plains"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "cobblemondimension:windswept_forest",
+    "cobblemondimension:windswept_gravelly_hills",
+    "cobblemondimension:windswept_hills",
+	"#cobblemon:is_highlands"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "cobblemondimension:deep_lukewarm_ocean",
+    "cobblemondimension:lukewarm_ocean"
+  ]
+}

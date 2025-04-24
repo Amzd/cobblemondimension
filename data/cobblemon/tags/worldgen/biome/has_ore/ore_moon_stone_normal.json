@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "#cobblemon:is_dripstone",
+	"#cobblemon:is_taiga",
+	"cobblemondimension:mushroom_fields"
+  ]
+}

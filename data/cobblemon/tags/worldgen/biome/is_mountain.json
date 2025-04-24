@@ -1,0 +1,12 @@
+{
+  "replace": true,
+  "values": [
+	"cobblemondimension:cherry_grove",
+	"cobblemondimension:frozen_peaks",
+	"cobblemondimension:jagged_peaks",
+	"cobblemondimension:meadow",
+	"cobblemondimension:snowy_slopes",
+	"cobblemondimension:stony_peaks",
+    "#cobblemon:is_hills"
+  ]
+}

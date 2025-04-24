@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#cobblemon:is_badlands",
+    "#cobblemon:is_hill",
+    "cobblemondimension:savanna_plateau",
+    "cobblemondimension:windswept_savanna",
+    "cobblemondimension:stony_shore",
+    "#cobblemon:is_mountain"
+  ]
+}

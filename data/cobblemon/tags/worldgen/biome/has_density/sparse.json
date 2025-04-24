@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "#cobblemon:is_arid",
+    "#cobblemon:is_grassland",
+    "#cobblemon:is_tundra"
+  ]
+}

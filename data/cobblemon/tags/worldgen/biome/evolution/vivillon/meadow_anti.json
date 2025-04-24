@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "#cobblemon:is_cherry_blossom",
+    "#cobblemon:is_magical",
+    "cobblemondimension:sunflower_plains"
+  ]
+}

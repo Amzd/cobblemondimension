@@ -1,0 +1,11 @@
+{
+  "values": [
+    "cobblemondimension:desert",
+    "cobblemondimension:plains",
+    "cobblemondimension:savanna",
+    "cobblemondimension:snowy_plains",
+    "cobblemondimension:taiga",
+    "#cobblemon:is_mountain",
+    "cobblemondimension:grove"
+  ]
+}

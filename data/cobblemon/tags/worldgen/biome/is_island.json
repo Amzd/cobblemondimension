@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+	"cobblemondimension:mushroom_fields",
+	"#cobblemon:is_tropical_island"
+  ]
+}

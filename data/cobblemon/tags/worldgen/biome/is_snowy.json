@@ -1,0 +1,12 @@
+{
+  "replace": true,
+  "values": [
+    "cobblemondimension:jagged_peaks",
+    "cobblemondimension:snowy_beach",
+    "cobblemondimension:snowy_plains",
+    "cobblemondimension:snowy_slopes",
+    "#cobblemon:is_glacial",
+    "#cobblemon:is_snowy_forest",
+	"#cobblemon:is_snowy_taiga"
+  ]
+}

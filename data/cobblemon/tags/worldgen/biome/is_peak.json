@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "cobblemondimension:frozen_peaks",
+    "cobblemondimension:jagged_peaks",
+	"cobblemondimension:snowy_slopes",
+    "cobblemondimension:stony_peaks"
+  ]
+}

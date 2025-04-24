@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "cobblemondimension:frozen_river",
+    "cobblemondimension:river"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "replace": true,
+  "values": [
+    "cobblemondimension:cold_ocean",
+    "cobblemondimension:frozen_ocean",
+    "cobblemondimension:lukewarm_ocean",
+    "cobblemondimension:ocean",
+    "cobblemondimension:warm_ocean",
+	"#cobblemon:is_cold_ocean",
+	"#cobblemon:is_deep_ocean",
+	"#cobblemon:is_frozen_ocean",
+	"#cobblemon:is_lukewarm_ocean",
+	"#cobblemon:is_temperate_ocean",
+	"#cobblemon:is_warm_ocean"
+  ]
+}

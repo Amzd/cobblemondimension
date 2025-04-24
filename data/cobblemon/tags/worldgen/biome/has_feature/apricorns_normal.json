@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+	"#cobblemon:is_hills",
+	"#cobblemon:is_grassland",
+	"#cobblemon:is_shrubland",
+	"cobblemondimension:sparse_jungle"
+  ]
+}
