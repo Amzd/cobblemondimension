@@ -1,0 +1,8 @@
+{
+    "Comment": "Minior shows as placeholder so disabled it",
+    "replace": true,
+    "enabled": false,
+    "neededInstalledMods": ["Cobblemon_MegaShowdown"],
+    "neededUninstalledMods": [],
+    "spawns": []
+}
